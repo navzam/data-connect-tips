@@ -1,3 +1,5 @@
+> :exclamation: **WARNING**: This repo is no longer maintained. However, the content has been officially published here: [Tips for using Microsoft Graph data connect](https://docs.microsoft.com/en-us/graph/data-connect-tips)
+
 # 10 Tips for Using Microsoft Graph Data Connect
 
 Microsoft Graph data connect is a new way to access the wealth of valuable data in your O365 tenant. This doc provides supplementary tips as you begin exploring data connect. It isn't intended to be an introduction to data connect, so if you're completely new to it, see the [data connect overview](https://docs.microsoft.com/en-us/graph/data-connect-concept-overview) and documentation first to get started.
